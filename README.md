@@ -36,8 +36,8 @@ A modern, responsive React-based payment method selector that allows users to:
 ---
 
 project:
-  name: React Payment UI
-  description: A modern, responsive payment method selector built with React, Tailwind CSS, and FontAwesome.
+  -name: React Payment UI
+  -description: A modern, responsive payment method selector built with React, Tailwind CSS, and FontAwesome.
   features:
     - Dark Mode Toggle
     - Saved Payment Method List
@@ -57,7 +57,7 @@ project:
       - Netlify
       - GitHub Pages
 
-structure:
+-structure:
   src/:
     - components/
       - AddNewPaymentMethods.jsx
