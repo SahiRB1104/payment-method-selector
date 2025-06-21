@@ -27,7 +27,7 @@ A modern, responsive React-based payment method selector that allows users to:
 
  - ![Payment Methods](screenshots/image1.png)
 
- - ![Credit Card details](screenshot/simage2.png)
+ - ![Credit Card details](screenshots/image2.png)
 
  - ![Paypal](screenshots/image3.png)
 
