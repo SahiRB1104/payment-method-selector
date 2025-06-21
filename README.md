@@ -5,6 +5,11 @@ A modern, responsive React-based payment method selector that allows users to:
 - Add new methods like Credit Card, PayPal, Google Pay, and Apple Pay
 - Toggle dark/light theme
 - Enter payment details and confirm with credentials
+
+
+## 🎥 Demo Preview
+<video controls src="screenshots/demo.mp4" title="demo"></video>
+
 ## 📖 Project Description
 -  A responsive and modular Payment Method Selector UI built with React.js and Tailwind CSS. Supports multiple payment options (Credit Card, PayPal, Apple Pay, Google Pay), dark mode, and saved method management. Utilizes React Transition Group for smooth animations and FontAwesome for icons. Easily integratable into any web app requiring payment input functionality.
 ---
