@@ -20,11 +20,20 @@ A modern, responsive React-based payment method selector that allows users to:
 - 🎨 **Modern Tailwind CSS Styling**
 
 ---
+## 📸 Screenshots
 
-## 📸 Preview
+### 💳 Payment Method Selection Page
+ - ![Payment UI](image.png)
 
-> Add screenshots or a screen recording here
+ - ![Payment Methods](image1.png)
 
+ - ![Credit Card details](image2.png)
+
+ - ![Paypal](image3.png)
+
+ - ![Gpay](image4.png)
+
+ - ![Apple pay](image5.png)
 ---
 
 ## 🚀 Tech Stack
