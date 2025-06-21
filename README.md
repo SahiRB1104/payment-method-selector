@@ -6,7 +6,6 @@ A modern, responsive React-based payment method selector that allows users to:
 - Toggle dark/light theme
 - Enter payment details and confirm with credentials
 
-
 ## 🎥 Demo Preview
 <video controls src="screenshots/demo.mp4" title="demo"></video>
 
