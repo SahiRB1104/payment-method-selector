@@ -22,18 +22,23 @@ A modern, responsive React-based payment method selector that allows users to:
 ---
 ## 📸 Screenshots
 
+### 🏠 Home Page – Saved Payment Methods
+ ![Payment UI](screenshots/image.png)
+ 
 ### 💳 Payment Method Selection Page
- - ![Payment UI](screenshots/image.png)
+ ![Payment Methods](screenshots/image1.png)
+ 
+### 💳 Credit Card
+ ![Credit Card details](screenshots/image2.png)
+ 
+### 🅿️ PayPal
+ ![Paypal](screenshots/image3.png)
 
- - ![Payment Methods](screenshots/image1.png)
+### 🅖 Google Pay
+ ![Gpay](screenshots/image4.png)
 
- - ![Credit Card details](screenshots/image2.png)
-
- - ![Paypal](screenshots/image3.png)
-
- - ![Gpay](screenshots/image4.png)
-
- - ![Apple pay](screenshots/image5.png)
+### 🅐 Apple Pay
+ ![Apple pay](screenshots/image5.png)
 ---
 
 ## 🚀 Tech Stack
